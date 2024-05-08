@@ -1,0 +1,28 @@
+.contenu{
+    width: 500px;
+    margin:10 auto;
+    /* background-color: blueviolet; */
+}
+.details{
+    /* background-color: darkgray; */
+    height: 150px;
+}
+div.details img{
+    height: 150px;
+    float: left;
+    border-radius: 100%;
+
+}
+.Liste-details{
+    /* background-color: chocolate; */
+    float: left;
+    list-style-type: none;
+    margin-top: 40px;
+
+}
+.cv-section{
+    /* background-color: aqua; */
+}
+h1, h2{
+    text-align: center;
+}
